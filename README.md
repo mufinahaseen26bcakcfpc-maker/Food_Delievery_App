@@ -99,18 +99,9 @@ Displays nearby restaurants with:
 
 <img width="402" height="874" alt="iPhone 16   17 Pro - 7" src="https://github.com/user-attachments/assets/303bfc29-afac-468a-a756-d53591776331" />
 
+<img width="402" height="874" alt="iPhone 16   17 Pro - 8" src="https://github.com/user-attachments/assets/3eb39078-991b-4d70-8df7-7f44d945ba21" />
 
-Shows complete information about a selected restaurant including:
-
-* Cover Image
-* Rating
-* Delivery Time
-* Menu Preview
-* Recommended Foods
-
----
-
-### 6. Menu Screens
+<img width="402" height="874" alt="iPhone 16   17 Pro - 9" src="https://github.com/user-attachments/assets/8f875d7c-9c8b-4eda-b6a2-c7e9461b92ea" />
 
 Users can browse different restaurant menus such as:
 
@@ -129,7 +120,10 @@ Each menu item contains:
 
 ---
 
-### 7. Cart Screen
+### 6. Cart Screen
+
+<img width="402" height="874" alt="iPhone 16   17 Pro - 10" src="https://github.com/user-attachments/assets/40bcc1d6-7051-43c8-87a5-7d019c9aa86d" />
+
 
 Displays all selected food items.
 
@@ -143,7 +137,10 @@ Features:
 
 ---
 
-### 8. Address Selection
+### 7. Address Selection
+
+<img width="402" height="874" alt="iPhone 16   17 Pro - 11" src="https://github.com/user-attachments/assets/b1654439-2611-4ef9-99f1-5649607591ef" />
+
 
 Allows users to:
 
@@ -153,7 +150,10 @@ Allows users to:
 
 ---
 
-### 9. Payment Method
+### 8. Payment Method
+
+<img width="402" height="874" alt="iPhone 16   17 Pro - 12" src="https://github.com/user-attachments/assets/e3dcbebf-4cbf-435a-b416-3b047a6d8d0b" />
+
 
 Available payment options include:
 
@@ -165,7 +165,10 @@ Available payment options include:
 
 ---
 
-### 10. Order Review
+### 9. Order Review
+
+<img width="402" height="874" alt="iPhone 16   17 Pro - 13" src="https://github.com/user-attachments/assets/6bc81c55-a83e-4d5d-b589-34ccdfe65c4a" />
+
 
 Shows the complete order summary before placing the order.
 
@@ -180,7 +183,10 @@ Includes:
 
 ---
 
-### 11. Order Confirmation
+### 10. Order Confirmation
+
+<img width="402" height="874" alt="iPhone 16   17 Pro - 14" src="https://github.com/user-attachments/assets/c72fc08d-5a43-4491-8baa-6c469b92dae0" />
+
 
 Confirms that the order has been placed successfully.
 
@@ -191,7 +197,10 @@ Options:
 
 ---
 
-### 12. Order Tracking
+### 11. Order Tracking
+
+<img width="402" height="874" alt="iPhone 16   17 Pro - 15" src="https://github.com/user-attachments/assets/d7ab93ef-7959-4a7e-a7f3-1cd591ae89f7" />
+
 
 Shows the live progress of the order.
 
@@ -204,7 +213,10 @@ Stages:
 
 ---
 
-### 13. Profile Screen
+### 12. Profile Screen
+
+<img width="402" height="874" alt="iPhone 16   17 Pro - 16" src="https://github.com/user-attachments/assets/04b786fd-2aca-464f-9d80-9aeb478a83a1" />
+
 
 Allows users to manage their account.
 
