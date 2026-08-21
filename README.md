@@ -1,5 +1,6 @@
 # Food_Delievery_App
-https://www.figma.com/proto/7GWaHtB7Q5EZJW6wlX0q98/Untitled?node-id=1-2&p=f&t=ToH0Fgw0sOpEcM3o-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
+prototype link:
+https://www.figma.com/proto/7GWaHtB7Q5EZJW6wlX0q98/Untitled?node-id=1-2&starting-point-node-id=1%3A2&t=TgRL6jhfsZxXAiBi-1
 
 # Food Delivery Mobile App – README
 
